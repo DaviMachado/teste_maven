@@ -36,7 +36,7 @@
 	
 		<fieldset class="form-group fieldset_form" style="margin-top: 48px">
 		<legend align="center">Formulário do Aluno</legend>
-			<form class="form_form" action="http://localhost:8080/desafio_ponto_add/aluno">
+			<form class="form_form" action="http://localhost:8080/teste_maven/aluno">
 			  	
 				<div class="form-row">
 					<!-- Nome -->
